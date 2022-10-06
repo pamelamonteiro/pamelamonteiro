@@ -3,7 +3,16 @@
 I'm Pamela, a Software Development student based in Brazil.
 I am currently developing the following skills:
 
-Atualmente estou cursando Desenvolvimento Web FullStack na Trybe e, até o momento, finalizei os módulos de Fundamentos WEB, onde realizei projetos desafiando meus conhecimentos em HTML, CSS, Javascript, React, Testes Unitários, TDD, Node.js, Docker, MySQL, REST API, entre outros.
+- HTML
+- CSS
+- Javascript
+- React
+- Unity Tests
+- TDD
+- Node.js
+- Docker
+- MySQL
+- REST API
 
 ![Pam's GitHub stats](https://github-readme-stats.vercel.app/api?username=pamelamonteiro&show_icons=true&theme=dracula)
 
